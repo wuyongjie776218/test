@@ -15,10 +15,7 @@
       "group": "自定义",
       "channels": [
         {
-          "name": "直播源",
-          "urls": [
-            "https://test-dyh.pages.dev/ipv4.txt"
-          ]
+          "name": "直播源"
         }
       ]
     }

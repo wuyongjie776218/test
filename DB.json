@@ -10,16 +10,6 @@
       "filterable": 1
     }
   ],
-  "lives": [
-    {
-      "group": "自定义",
-      "channels": [
-        {
-          "name": "直播源"
-        }
-      ]
-    }
-  ],
   "parses": [
     {
       "name": "解析1",

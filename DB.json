@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "modu",
-      "name": "魔都",
+      "name": "免费电影",
       "type": 1,
       "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
